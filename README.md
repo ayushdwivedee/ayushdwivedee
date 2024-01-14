@@ -3,7 +3,7 @@
 ## 🚀 Skills
 - **Languages:** HTML, CSS, JavaScript ,Python
 - **Frameworks/Libraries:** React
-- **Tools:** Git,Postman, npm , Visual Studio Code
+- **Tools:** Git, Postman, npm , Visual Studio Code
 
 - 🌎 I hail from Kanpur , India
 - 🌱 I’m currently learning React JavaScript library
