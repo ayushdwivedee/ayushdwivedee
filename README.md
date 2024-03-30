@@ -1,4 +1,5 @@
- # <center>Hi 👋 I’m Ayush Dwivedi</center>
+ ![header_](https://github.com/ayushdwivedee/ayushdwivedee/assets/140685778/d93aae48-8a20-4345-9018-655216b998e5)
+# <center>Hi 👋 I’m Ayush Dwivedi</center>
 ### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. 👨‍💻✨ </center>
 ## 🚀 Skills
 - **Languages:** HTML, CSS, JavaScript ,Python
@@ -10,7 +11,7 @@
 - 💞️ I’m looking to collaborate on some awesome projects that can enhance my skills
 - 👀 I’m interested in stock market and personal finance too
 - 📩 Email :[Send me an Email](mailto:ayushbhartiya1494927@gmail.com)
-- 🌐 Portfolio: [My Portfolio](https://yourportfolio.com) 
+- 🌐 Portfolio: [My Portfolio](https://ayush-portfolio-site.netlify.app/)
 
 # 🌐Socials
 [![Linkedin](https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/ayushdwivedee/) 
