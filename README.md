@@ -6,8 +6,8 @@
 - **Frameworks/Libraries:** React
 - **Tools:** Git, Postman, npm , Visual Studio Code
 
-- 🌎 I hail from Kanpur , India
-- 🌱 I’m currently learning React JavaScript library
+- 🌎 I hail from Maudaha , India
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on some awesome projects that can enhance my skills
 - 👀 I’m interested in stock market and personal finance too
 - 📩 Email :[Send me an Email](mailto:ayushbhartiya1494927@gmail.com)
