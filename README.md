@@ -26,6 +26,9 @@
 ![Postman](https://camo.githubusercontent.com/8bc77ae2c6ec0a97c7692ec54d53c49d3c4637e9c64ee63f7b45cf14a50e8177/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
 ![Python](https://img.shields.io/badge/Python-rgb(59,117,166))
 
+![Static Badge](https://img.shields.io/badge/python?logoColor=blue&logoSize=amd)
+
+
 # 📊 GitHub Stats
 ![ayushdwivedee's Stats](https://github-readme-stats.vercel.app/api?username=ayushdwivedee&theme=algolia&show_icons=true&hide_border=true&count_private=true)
 
