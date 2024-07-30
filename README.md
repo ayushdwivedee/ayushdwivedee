@@ -1,6 +1,6 @@
  ![header_](https://github.com/ayushdwivedee/ayushdwivedee/assets/140685778/d93aae48-8a20-4345-9018-655216b998e5)
 # <center>Hi 👋 I’m Ayush Dwivedi</center>
-### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. 👨‍💻✨ </center>
+### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
 ## 🚀 Skills
 - **Languages:** HTML, CSS, JavaScript ,Python
 - **Frameworks/Libraries:** React
